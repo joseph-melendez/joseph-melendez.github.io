@@ -1,4 +1,3 @@
-# joseph-melendez.github.io
 This is a test of my GitHub account, learning how pages works to host some basic front-end applcations.
 
 ## Applications
